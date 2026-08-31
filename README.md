@@ -1,5 +1,5 @@
-                                                    MODULO-3.7
+# MODULO-3.7
 
-                            PUESTA EN MARCHA DE LA MICROEMPRESA ASOCIATIVA COOPERATIVA
+## PUESTA EN MARCHA DE LA MICROEMPRESA ASOCIATIVA COOPERATIVA
 
-                                    ![Imagen del proyecto](images.png)
+<img src="images.png" alt="Imagen del proyecto" width="600">
